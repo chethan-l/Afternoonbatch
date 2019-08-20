@@ -13,5 +13,6 @@ public abstract class AbstractClass {
 	
 	public void ops2() {
 		System.out.println("method 2");
+		System.out.println("hello");
 	}
 }
