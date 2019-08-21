@@ -13,6 +13,7 @@ public class ImpClass extends AbstractClass {
 	public void ops1() {
 		// TODO Auto-generated method stub
 		System.out.println("overriden");
+		System.out.println("hello hi");
 	}
 	public void ops3() {
 		// TODO Auto-generated method stub
