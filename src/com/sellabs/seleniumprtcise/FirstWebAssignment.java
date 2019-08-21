@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.asserts.SoftAssert;
 
-//import org.testng.Assert;
+import org.testng.Assert;
 
 /**
  * @author Viswanath Lingum
