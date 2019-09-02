@@ -2,52 +2,52 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="223" started-at="2019-08-01T12:26:15Z" finished-at="2019-08-01T12:26:16Z">
+  <suite name="Suite" duration-ms="123" started-at="2019-08-21T12:50:31Z" finished-at="2019-08-21T12:50:31Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="57" started-at="2019-08-01T12:26:15Z" finished-at="2019-08-01T12:26:15Z">
+    <test name="Test" duration-ms="48" started-at="2019-08-21T12:50:31Z" finished-at="2019-08-21T12:50:31Z">
       <class name="com.sellabs.testng.sample">
-        <test-method status="PASS" signature="B()[pri:0, instance:com.sellabs.testng.sample@6cd8737]" name="B" is-config="true" duration-ms="23" started-at="2019-08-01T17:56:15Z" finished-at="2019-08-01T17:56:15Z">
+        <test-method status="PASS" signature="B()[pri:0, instance:com.sellabs.testng.sample@6cd8737]" name="B" is-config="true" duration-ms="12" started-at="2019-08-21T18:20:31Z" finished-at="2019-08-21T18:20:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- B -->
-        <test-method status="PASS" signature="D()[pri:1, instance:com.sellabs.testng.sample@6cd8737]" name="D" duration-ms="1" started-at="2019-08-01T17:56:15Z" finished-at="2019-08-01T17:56:15Z">
+        <test-method status="PASS" signature="D()[pri:1, instance:com.sellabs.testng.sample@6cd8737]" name="D" duration-ms="2" started-at="2019-08-21T18:20:31Z" finished-at="2019-08-21T18:20:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- D -->
-        <test-method status="PASS" signature="C()[pri:0, instance:com.sellabs.testng.sample@6cd8737]" name="C" is-config="true" duration-ms="0" started-at="2019-08-01T17:56:15Z" finished-at="2019-08-01T17:56:15Z">
+        <test-method status="PASS" signature="C()[pri:0, instance:com.sellabs.testng.sample@6cd8737]" name="C" is-config="true" duration-ms="1" started-at="2019-08-21T18:20:31Z" finished-at="2019-08-21T18:20:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- C -->
-        <test-method status="PASS" signature="B()[pri:0, instance:com.sellabs.testng.sample@6cd8737]" name="B" is-config="true" duration-ms="1" started-at="2019-08-01T17:56:15Z" finished-at="2019-08-01T17:56:15Z">
+        <test-method status="PASS" signature="B()[pri:0, instance:com.sellabs.testng.sample@6cd8737]" name="B" is-config="true" duration-ms="1" started-at="2019-08-21T18:20:31Z" finished-at="2019-08-21T18:20:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- B -->
-        <test-method status="PASS" signature="A()[pri:2, instance:com.sellabs.testng.sample@6cd8737]" name="A" duration-ms="0" started-at="2019-08-01T17:56:15Z" finished-at="2019-08-01T17:56:15Z">
+        <test-method status="PASS" signature="A()[pri:2, instance:com.sellabs.testng.sample@6cd8737]" name="A" duration-ms="0" started-at="2019-08-21T18:20:31Z" finished-at="2019-08-21T18:20:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- A -->
-        <test-method status="PASS" signature="C()[pri:0, instance:com.sellabs.testng.sample@6cd8737]" name="C" is-config="true" duration-ms="2" started-at="2019-08-01T17:56:15Z" finished-at="2019-08-01T17:56:15Z">
+        <test-method status="PASS" signature="C()[pri:0, instance:com.sellabs.testng.sample@6cd8737]" name="C" is-config="true" duration-ms="0" started-at="2019-08-21T18:20:31Z" finished-at="2019-08-21T18:20:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- C -->
-        <test-method status="PASS" signature="B()[pri:0, instance:com.sellabs.testng.sample@6cd8737]" name="B" is-config="true" duration-ms="0" started-at="2019-08-01T17:56:15Z" finished-at="2019-08-01T17:56:15Z">
+        <test-method status="PASS" signature="B()[pri:0, instance:com.sellabs.testng.sample@6cd8737]" name="B" is-config="true" duration-ms="1" started-at="2019-08-21T18:20:31Z" finished-at="2019-08-21T18:20:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- B -->
-        <test-method status="PASS" signature="E()[pri:5, instance:com.sellabs.testng.sample@6cd8737]" name="E" duration-ms="1" started-at="2019-08-01T17:56:15Z" finished-at="2019-08-01T17:56:15Z">
+        <test-method status="PASS" signature="E()[pri:5, instance:com.sellabs.testng.sample@6cd8737]" name="E" duration-ms="0" started-at="2019-08-21T18:20:31Z" finished-at="2019-08-21T18:20:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- E -->
-        <test-method status="PASS" signature="C()[pri:0, instance:com.sellabs.testng.sample@6cd8737]" name="C" is-config="true" duration-ms="1" started-at="2019-08-01T17:56:15Z" finished-at="2019-08-01T17:56:15Z">
+        <test-method status="PASS" signature="C()[pri:0, instance:com.sellabs.testng.sample@6cd8737]" name="C" is-config="true" duration-ms="0" started-at="2019-08-21T18:20:31Z" finished-at="2019-08-21T18:20:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- C -->
       </class> <!-- com.sellabs.testng.sample -->
     </test> <!-- Test -->
-    <test name="Test1" duration-ms="1" started-at="2019-08-01T12:26:16Z" finished-at="2019-08-01T12:26:16Z">
+    <test name="Test1" duration-ms="1" started-at="2019-08-21T12:50:31Z" finished-at="2019-08-21T12:50:31Z">
       <class name="com.sellabs.testng.sample2">
-        <test-method status="PASS" signature="R()[pri:0, instance:com.sellabs.testng.sample2@13fee20c]" name="R" duration-ms="0" started-at="2019-08-01T17:56:16Z" finished-at="2019-08-01T17:56:16Z">
+        <test-method status="PASS" signature="R()[pri:0, instance:com.sellabs.testng.sample2@13fee20c]" name="R" duration-ms="1" started-at="2019-08-21T18:20:31Z" finished-at="2019-08-21T18:20:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- R -->
